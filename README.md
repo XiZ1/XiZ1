@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @ XiZ1. My name is Jakub Górecki. I'm 20 years old. I live in Poland.
+- 👋 Hi, I'm @ XiZ1. My full name is Jakub Górecki. I'm 20 years old. I live in Poland.
 - 👀 I’m interested in programming computer games.
 - 🌱 In my free time I am learning C++.
 - 💻 I want to work at GameDev.
